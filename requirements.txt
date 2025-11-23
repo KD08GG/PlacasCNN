@@ -1,7 +1,24 @@
+# Core ML/DL libraries
 ultralytics
 opencv-python
 numpy
 tensorflow
 easyocr
+
+# Image processing
 pillow
+
+# Data science
+pandas
 matplotlib
+
+# Utilities
+tqdm
+
+# Testing (opcional)
+pytest
+pytest-cov
+
+# Jupyter (opcional)
+jupyter
+ipywidgets
