@@ -1,0 +1,7 @@
+# Dependencias mínimas para ALPR simplificado
+ultralytics
+opencv-python
+numpy
+tensorflow
+easyocr
+tqdm
